@@ -1,4 +1,9 @@
 {
-  "fw": "0.1.3",
-  "fs": "0.0.3"
+"fs_version":"0.0.4",
+"fs_size":"1572896",
+"fs_hash":"33a762533315982c5c201e9b97c511c09e4572310d4c69087784b4c4d053bf29"
+,
+"fw_version":"0.1.4",
+"fw_size":"1309168",
+"fw_hash":"7c8b2c5d7878962aba8545baa7afd2646862066f5a1a5e2dc3ea3ab59e3a756d"
 }
