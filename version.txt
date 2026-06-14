@@ -3,7 +3,7 @@
 "fw_size":"1282080",
 "fw_hash":"881b7e29f77d426c24918a6ef6de09e056ac9bf4c802e5bd8d84a92aaf489d5e"
 ,
-"fs_version":"0.0.4",
+"fs_version":"0.0.5",
 "fs_size":"1572896",
-"fs_hash":"33a762533315982c5c201e9b97c511c09e4572310d4c69087784b4c4d053bf29"
+"fs_hash":"33013485de2c92a492e275002d4b2c9b0f73d438dde03e49af5163db87df8971"
 }
