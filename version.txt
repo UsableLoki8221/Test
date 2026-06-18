@@ -1,8 +1,10 @@
 {
+"fw_url":"https://raw.githubusercontent.com/UsableLoki8221/Test/main/AA_firmware.bin",
 "fw_version":"0.1.7",
 "fw_size":"1340656",
 "fw_hash":"31e43e9b5a2eb13e0ab22f4cb72220d370a73adb332a7a7e9e59b7d9e87699b8"
 ,
+"fs_url":"https://raw.githubusercontent.com/UsableLoki8221/Test/main/AA_filesystem.bin",
 "fs_version":"0.0.5",
 "fs_size":"1572896",
 "fs_hash":"33013485de2c92a492e275002d4b2c9b0f73d438dde03e49af5163db87df8971"
